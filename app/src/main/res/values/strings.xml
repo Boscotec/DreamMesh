@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DeezerM</string>
+
+    <string name="browse">Browse</string>
+    <string name="browse_desc">Explore by genre and mood</string>
+    <string name="pick">Playlist picks</string>
+    <string name="pick_desc">Choose for you by our Editors</string>
+
+</resources>
